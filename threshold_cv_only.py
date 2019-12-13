@@ -19,7 +19,6 @@ except Exception as e:
     print('SatData.mat is not found, specify your SatData source path')
     images = input('Enter SatData Path:')
 
-
 plt.figure(frameon=False)
 
 # Following method get the image and store it in png
