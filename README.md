@@ -21,6 +21,11 @@ from the code root dir run:
 * Refer to relevent files for running discuiption
 * Each file have user guide included after run for hints as well
 
+![RUN_1](screenshots/run-test-2.png)
+
+![RUN_2](screenshots/run-test-1.png)
+
+
 ---
 
 ## Important For using experimental.py:
