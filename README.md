@@ -48,3 +48,7 @@ Using the following function should be as following:
 ![NDWI](screenshots/threshold-results-tir.png)
 
 ![Experimantal](screenshots/Combined.jpg)
+
+---
+
+All rights reserved Mohamed Sobhy Fouda
