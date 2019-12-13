@@ -2,7 +2,7 @@
 
 ![NDWI](screenshots/ndwi.png)
 
-**Provided open-source code is only an abstract of the fully developed object orianted code which remain confidintail**
+**Provided open-source code is only an abstract of the fully developed object orianted code which remain confidential**
 
 ## Install code's package requirements
 
