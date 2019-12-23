@@ -1,3 +1,5 @@
+[![GitHub](https://img.shields.io/github/license/mfouda214/Satellite-Imagery)](https://github.com/mfouda214/Satellite-Imagery/blob/master/LICENSE)
+
 # Image processing for Satellite Imagery
 
 ![NDWI](screenshots/ndwi.png)
